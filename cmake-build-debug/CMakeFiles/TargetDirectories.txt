@@ -1,0 +1,3 @@
+/home/thienthai/Desktop/a5/cachelab-handout/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/thienthai/Desktop/a5/cachelab-handout/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/thienthai/Desktop/a5/cachelab-handout/cmake-build-debug/CMakeFiles/cachelab_handout.dir

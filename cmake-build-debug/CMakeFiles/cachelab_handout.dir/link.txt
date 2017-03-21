@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcachelab_handout.a  CMakeFiles/cachelab_handout.dir/library.c.o CMakeFiles/cachelab_handout.dir/csim.c.o
+/usr/bin/ranlib libcachelab_handout.a
